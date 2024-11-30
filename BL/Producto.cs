@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace BL
 {
+    //trterte
     public class Producto
     {
         public static ML.Result GetAll(int IdSubCategoria)
