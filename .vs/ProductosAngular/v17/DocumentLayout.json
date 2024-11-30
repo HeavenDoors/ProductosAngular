@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elifg\\source\\repos\\ProductosAngular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1070AB2-97C8-4E28-B671-9E7B9F73DE1C}|PL\\pl.client\\pl.client.esproj|c:\\users\\elifg\\source\\repos\\productosangular\\pl\\pl.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{B1070AB2-97C8-4E28-B671-9E7B9F73DE1C}|PL\\pl.client\\pl.client.esproj|solutionrelative:pl\\pl.client\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1070AB2-97C8-4E28-B671-9E7B9F73DE1C}|PL\\pl.client\\pl.client.esproj|c:\\users\\elifg\\source\\repos\\productosangular\\pl\\pl.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B1070AB2-97C8-4E28-B671-9E7B9F73DE1C}|PL\\pl.client\\pl.client.esproj|solutionrelative:pl\\pl.client\\src\\proxy.conf.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\elifg\\source\\repos\\ProductosAngular\\PL\\pl.client\\src\\main.ts",
+              "RelativeDocumentMoniker": "PL\\pl.client\\src\\main.ts",
+              "ToolTip": "C:\\Users\\elifg\\source\\repos\\ProductosAngular\\PL\\pl.client\\src\\main.ts",
+              "RelativeToolTip": "PL\\pl.client\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-30T04:39:36.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "proxy.conf.js",
+              "DocumentMoniker": "C:\\Users\\elifg\\source\\repos\\ProductosAngular\\PL\\pl.client\\src\\proxy.conf.js",
+              "RelativeDocumentMoniker": "PL\\pl.client\\src\\proxy.conf.js",
+              "ToolTip": "C:\\Users\\elifg\\source\\repos\\ProductosAngular\\PL\\pl.client\\src\\proxy.conf.js",
+              "RelativeToolTip": "PL\\pl.client\\src\\proxy.conf.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-30T04:38:15.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

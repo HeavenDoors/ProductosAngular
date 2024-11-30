@@ -1,0 +1,11 @@
+C:\Users\elifg\source\repos\ProductosAngular\ML\bin\Debug\net8.0\ML.deps.json
+C:\Users\elifg\source\repos\ProductosAngular\ML\bin\Debug\net8.0\ML.dll
+C:\Users\elifg\source\repos\ProductosAngular\ML\bin\Debug\net8.0\ML.pdb
+C:\Users\elifg\source\repos\ProductosAngular\ML\obj\Debug\net8.0\ML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifg\source\repos\ProductosAngular\ML\obj\Debug\net8.0\ML.AssemblyInfoInputs.cache
+C:\Users\elifg\source\repos\ProductosAngular\ML\obj\Debug\net8.0\ML.AssemblyInfo.cs
+C:\Users\elifg\source\repos\ProductosAngular\ML\obj\Debug\net8.0\ML.csproj.CoreCompileInputs.cache
+C:\Users\elifg\source\repos\ProductosAngular\ML\obj\Debug\net8.0\ML.dll
+C:\Users\elifg\source\repos\ProductosAngular\ML\obj\Debug\net8.0\refint\ML.dll
+C:\Users\elifg\source\repos\ProductosAngular\ML\obj\Debug\net8.0\ML.pdb
+C:\Users\elifg\source\repos\ProductosAngular\ML\obj\Debug\net8.0\ref\ML.dll

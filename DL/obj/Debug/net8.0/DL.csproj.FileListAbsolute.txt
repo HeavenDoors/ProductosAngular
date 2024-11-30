@@ -1,0 +1,14 @@
+C:\Users\elifg\source\repos\ProductosAngular\DL\bin\Debug\net8.0\DL.deps.json
+C:\Users\elifg\source\repos\ProductosAngular\DL\bin\Debug\net8.0\DL.runtimeconfig.json
+C:\Users\elifg\source\repos\ProductosAngular\DL\bin\Debug\net8.0\DL.dll
+C:\Users\elifg\source\repos\ProductosAngular\DL\bin\Debug\net8.0\DL.pdb
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\DL.csproj.AssemblyReference.cache
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\DL.AssemblyInfoInputs.cache
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\DL.AssemblyInfo.cs
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\DL.csproj.CoreCompileInputs.cache
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\DL.dll
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\refint\DL.dll
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\DL.pdb
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\DL.genruntimeconfig.cache
+C:\Users\elifg\source\repos\ProductosAngular\DL\obj\Debug\net8.0\ref\DL.dll
